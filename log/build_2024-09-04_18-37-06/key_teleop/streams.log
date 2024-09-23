@@ -1,0 +1,42 @@
+[1.762s] Invoking command in '/home/rcv/f1tenth_ws/src/f1tenth_system/teleop_tools/key_teleop': PYTHONPATH=/home/rcv/f1tenth_ws/build/key_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rcv/f1tenth_ws/install/key_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../build/key_teleop build --build-base /home/rcv/f1tenth_ws/build/key_teleop/build install --record /home/rcv/f1tenth_ws/build/key_teleop/install.log --install-scripts $base/lib/key_teleop --single-version-externally-managed install_data
+[2.321s] /usr/lib/python3/dist-packages/setuptools/dist.py:723: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[2.321s]   warnings.warn(
+[2.343s] running egg_info
+[2.344s] creating ../../../../build/key_teleop/key_teleop.egg-info
+[2.345s] writing ../../../../build/key_teleop/key_teleop.egg-info/PKG-INFO
+[2.346s] writing dependency_links to ../../../../build/key_teleop/key_teleop.egg-info/dependency_links.txt
+[2.347s] writing entry points to ../../../../build/key_teleop/key_teleop.egg-info/entry_points.txt
+[2.348s] writing requirements to ../../../../build/key_teleop/key_teleop.egg-info/requires.txt
+[2.348s] writing top-level names to ../../../../build/key_teleop/key_teleop.egg-info/top_level.txt
+[2.350s] writing manifest file '../../../../build/key_teleop/key_teleop.egg-info/SOURCES.txt'
+[2.355s] reading manifest file '../../../../build/key_teleop/key_teleop.egg-info/SOURCES.txt'
+[2.356s] adding license file 'LICENSE'
+[2.358s] writing manifest file '../../../../build/key_teleop/key_teleop.egg-info/SOURCES.txt'
+[2.359s] running build
+[2.359s] running build_py
+[2.360s] creating /home/rcv/f1tenth_ws/build/key_teleop/build
+[2.361s] creating /home/rcv/f1tenth_ws/build/key_teleop/build/lib
+[2.362s] creating /home/rcv/f1tenth_ws/build/key_teleop/build/lib/key_teleop
+[2.362s] copying key_teleop/key_teleop.py -> /home/rcv/f1tenth_ws/build/key_teleop/build/lib/key_teleop
+[2.363s] copying key_teleop/__init__.py -> /home/rcv/f1tenth_ws/build/key_teleop/build/lib/key_teleop
+[2.364s] running install
+[2.366s] running install_lib
+[2.369s] creating /home/rcv/f1tenth_ws/install/key_teleop/lib/python3.10/site-packages/key_teleop
+[2.370s] copying /home/rcv/f1tenth_ws/build/key_teleop/build/lib/key_teleop/key_teleop.py -> /home/rcv/f1tenth_ws/install/key_teleop/lib/python3.10/site-packages/key_teleop
+[2.370s] copying /home/rcv/f1tenth_ws/build/key_teleop/build/lib/key_teleop/__init__.py -> /home/rcv/f1tenth_ws/install/key_teleop/lib/python3.10/site-packages/key_teleop
+[2.373s] byte-compiling /home/rcv/f1tenth_ws/install/key_teleop/lib/python3.10/site-packages/key_teleop/key_teleop.py to key_teleop.cpython-310.pyc
+[2.377s] byte-compiling /home/rcv/f1tenth_ws/install/key_teleop/lib/python3.10/site-packages/key_teleop/__init__.py to __init__.cpython-310.pyc
+[2.378s] running install_data
+[2.379s] copying package.xml -> /home/rcv/f1tenth_ws/install/key_teleop/share/key_teleop
+[2.379s] creating /home/rcv/f1tenth_ws/install/key_teleop/share/key_teleop/config
+[2.380s] copying config/key_teleop.yaml -> /home/rcv/f1tenth_ws/install/key_teleop/share/key_teleop/config
+[2.381s] creating /home/rcv/f1tenth_ws/install/key_teleop/share/ament_index
+[2.382s] creating /home/rcv/f1tenth_ws/install/key_teleop/share/ament_index/resource_index
+[2.382s] creating /home/rcv/f1tenth_ws/install/key_teleop/share/ament_index/resource_index/packages
+[2.382s] copying resource/key_teleop -> /home/rcv/f1tenth_ws/install/key_teleop/share/ament_index/resource_index/packages
+[2.383s] running install_egg_info
+[2.388s] Copying ../../../../build/key_teleop/key_teleop.egg-info to /home/rcv/f1tenth_ws/install/key_teleop/lib/python3.10/site-packages/key_teleop-0.3.0-py3.10.egg-info
+[2.391s] running install_scripts
+[2.442s] Installing key_teleop script to /home/rcv/f1tenth_ws/install/key_teleop/lib/key_teleop
+[2.444s] writing list of installed files to '/home/rcv/f1tenth_ws/build/key_teleop/install.log'
+[2.533s] Invoked command in '/home/rcv/f1tenth_ws/src/f1tenth_system/teleop_tools/key_teleop' returned '0': PYTHONPATH=/home/rcv/f1tenth_ws/build/key_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rcv/f1tenth_ws/install/key_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../build/key_teleop build --build-base /home/rcv/f1tenth_ws/build/key_teleop/build install --record /home/rcv/f1tenth_ws/build/key_teleop/install.log --install-scripts $base/lib/key_teleop --single-version-externally-managed install_data

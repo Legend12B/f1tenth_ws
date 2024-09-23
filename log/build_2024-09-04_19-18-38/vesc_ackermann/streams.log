@@ -1,0 +1,48 @@
+[0.033s] Invoking command in '/home/rcv/f1tenth_ws/build/vesc_ackermann': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rcv/f1tenth_ws/install/joy_teleop:/home/rcv/f1tenth_ws/install/mouse_teleop:/home/rcv/f1tenth_ws/install/key_teleop:/opt/ros/humble LD_LIBRARY_PATH=/home/rcv/f1tenth_ws/install/vesc_msgs/lib:/home/rcv/f1tenth_ws/install/teleop_tools_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib:/usr/local/cuda-12.2/lib64 /usr/bin/cmake --build /home/rcv/f1tenth_ws/build/vesc_ackermann -- -j4 -l4
+[0.157s] [35m[1mConsolidate compiler generated dependencies of target vesc_to_odom_node[0m
+[0.164s] [35m[1mConsolidate compiler generated dependencies of target ackermann_to_vesc_node[0m
+[0.174s] [35m[1mConsolidate compiler generated dependencies of target vesc_ackermann[0m
+[0.264s] [ 28%] Built target vesc_to_odom_node
+[0.289s] [ 57%] Built target ackermann_to_vesc_node
+[0.296s] [ 71%] [32mBuilding CXX object CMakeFiles/vesc_ackermann.dir/src/vesc_to_odom.cpp.o[0m
+[0.302s] [ 85%] [32mBuilding CXX object CMakeFiles/vesc_ackermann.dir/src/ackermann_to_vesc.cpp.o[0m
+[28.978s] [100%] [32m[1mLinking CXX shared library libvesc_ackermann.so[0m
+[31.222s] [100%] Built target vesc_ackermann
+[31.247s] Invoked command in '/home/rcv/f1tenth_ws/build/vesc_ackermann' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rcv/f1tenth_ws/install/joy_teleop:/home/rcv/f1tenth_ws/install/mouse_teleop:/home/rcv/f1tenth_ws/install/key_teleop:/opt/ros/humble LD_LIBRARY_PATH=/home/rcv/f1tenth_ws/install/vesc_msgs/lib:/home/rcv/f1tenth_ws/install/teleop_tools_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib:/usr/local/cuda-12.2/lib64 /usr/bin/cmake --build /home/rcv/f1tenth_ws/build/vesc_ackermann -- -j4 -l4
+[31.309s] Invoking command in '/home/rcv/f1tenth_ws/build/vesc_ackermann': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rcv/f1tenth_ws/install/joy_teleop:/home/rcv/f1tenth_ws/install/mouse_teleop:/home/rcv/f1tenth_ws/install/key_teleop:/opt/ros/humble LD_LIBRARY_PATH=/home/rcv/f1tenth_ws/install/vesc_msgs/lib:/home/rcv/f1tenth_ws/install/teleop_tools_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib:/usr/local/cuda-12.2/lib64 /usr/bin/cmake --install /home/rcv/f1tenth_ws/build/vesc_ackermann
+[31.327s] -- Install configuration: ""
+[31.327s] -- Installing: /home/rcv/f1tenth_ws/install/vesc_ackermann/lib/vesc_ackermann/ackermann_to_vesc_node
+[31.328s] -- Set runtime path of "/home/rcv/f1tenth_ws/install/vesc_ackermann/lib/vesc_ackermann/ackermann_to_vesc_node" to ""
+[31.328s] -- Installing: /home/rcv/f1tenth_ws/install/vesc_ackermann/lib/vesc_ackermann/vesc_to_odom_node
+[31.329s] -- Set runtime path of "/home/rcv/f1tenth_ws/install/vesc_ackermann/lib/vesc_ackermann/vesc_to_odom_node" to ""
+[31.330s] -- Installing: /home/rcv/f1tenth_ws/install/vesc_ackermann/include
+[31.330s] -- Installing: /home/rcv/f1tenth_ws/install/vesc_ackermann/include/vesc_ackermann
+[31.330s] -- Installing: /home/rcv/f1tenth_ws/install/vesc_ackermann/include/vesc_ackermann/vesc_to_odom.hpp
+[31.330s] -- Installing: /home/rcv/f1tenth_ws/install/vesc_ackermann/include/vesc_ackermann/ackermann_to_vesc.hpp
+[31.331s] -- Installing: /home/rcv/f1tenth_ws/install/vesc_ackermann/share/vesc_ackermann/environment/library_path.sh
+[31.331s] -- Installing: /home/rcv/f1tenth_ws/install/vesc_ackermann/share/vesc_ackermann/environment/library_path.dsv
+[31.331s] -- Installing: /home/rcv/f1tenth_ws/install/vesc_ackermann/lib/libvesc_ackermann.so
+[31.369s] -- Set runtime path of "/home/rcv/f1tenth_ws/install/vesc_ackermann/lib/libvesc_ackermann.so" to ""
+[31.369s] -- Installing: /home/rcv/f1tenth_ws/install/vesc_ackermann/share/vesc_ackermann/launch
+[31.369s] -- Installing: /home/rcv/f1tenth_ws/install/vesc_ackermann/share/vesc_ackermann/launch/ackermann_to_vesc_node.launch.xml
+[31.370s] -- Installing: /home/rcv/f1tenth_ws/install/vesc_ackermann/share/vesc_ackermann/launch/vesc_to_odom_node.launch.xml
+[31.370s] -- Installing: /home/rcv/f1tenth_ws/install/vesc_ackermann/share/ament_index/resource_index/package_run_dependencies/vesc_ackermann
+[31.370s] -- Installing: /home/rcv/f1tenth_ws/install/vesc_ackermann/share/ament_index/resource_index/parent_prefix_path/vesc_ackermann
+[31.371s] -- Installing: /home/rcv/f1tenth_ws/install/vesc_ackermann/share/vesc_ackermann/environment/ament_prefix_path.sh
+[31.371s] -- Installing: /home/rcv/f1tenth_ws/install/vesc_ackermann/share/vesc_ackermann/environment/ament_prefix_path.dsv
+[31.371s] -- Installing: /home/rcv/f1tenth_ws/install/vesc_ackermann/share/vesc_ackermann/environment/path.sh
+[31.372s] -- Installing: /home/rcv/f1tenth_ws/install/vesc_ackermann/share/vesc_ackermann/environment/path.dsv
+[31.372s] -- Installing: /home/rcv/f1tenth_ws/install/vesc_ackermann/share/vesc_ackermann/local_setup.bash
+[31.372s] -- Installing: /home/rcv/f1tenth_ws/install/vesc_ackermann/share/vesc_ackermann/local_setup.sh
+[31.372s] -- Installing: /home/rcv/f1tenth_ws/install/vesc_ackermann/share/vesc_ackermann/local_setup.zsh
+[31.373s] -- Installing: /home/rcv/f1tenth_ws/install/vesc_ackermann/share/vesc_ackermann/local_setup.dsv
+[31.373s] -- Installing: /home/rcv/f1tenth_ws/install/vesc_ackermann/share/vesc_ackermann/package.dsv
+[31.373s] -- Installing: /home/rcv/f1tenth_ws/install/vesc_ackermann/share/ament_index/resource_index/packages/vesc_ackermann
+[31.374s] -- Installing: /home/rcv/f1tenth_ws/install/vesc_ackermann/share/ament_index/resource_index/rclcpp_components/vesc_ackermann
+[31.374s] -- Installing: /home/rcv/f1tenth_ws/install/vesc_ackermann/share/vesc_ackermann/cmake/ament_cmake_export_dependencies-extras.cmake
+[31.374s] -- Installing: /home/rcv/f1tenth_ws/install/vesc_ackermann/share/vesc_ackermann/cmake/ament_cmake_export_include_directories-extras.cmake
+[31.375s] -- Installing: /home/rcv/f1tenth_ws/install/vesc_ackermann/share/vesc_ackermann/cmake/ament_cmake_export_libraries-extras.cmake
+[31.375s] -- Installing: /home/rcv/f1tenth_ws/install/vesc_ackermann/share/vesc_ackermann/cmake/vesc_ackermannConfig.cmake
+[31.375s] -- Installing: /home/rcv/f1tenth_ws/install/vesc_ackermann/share/vesc_ackermann/cmake/vesc_ackermannConfig-version.cmake
+[31.375s] -- Installing: /home/rcv/f1tenth_ws/install/vesc_ackermann/share/vesc_ackermann/package.xml
+[31.381s] Invoked command in '/home/rcv/f1tenth_ws/build/vesc_ackermann' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rcv/f1tenth_ws/install/joy_teleop:/home/rcv/f1tenth_ws/install/mouse_teleop:/home/rcv/f1tenth_ws/install/key_teleop:/opt/ros/humble LD_LIBRARY_PATH=/home/rcv/f1tenth_ws/install/vesc_msgs/lib:/home/rcv/f1tenth_ws/install/teleop_tools_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib:/usr/local/cuda-12.2/lib64 /usr/bin/cmake --install /home/rcv/f1tenth_ws/build/vesc_ackermann
